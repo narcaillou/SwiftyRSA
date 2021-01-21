@@ -64,7 +64,7 @@ skinparam backgroundColor $BGCOLOR
 	BackgroundColor $PRIMARY_LIGHT
 !endprocedure
 
-skinparam defaultFontName        "DejaVu Serif"
+skinparam defaultFontName        "Jomolhari"
 skinparam defaultFontSize        12
 skinparam dpi                    100
 skinparam shadowing              false
